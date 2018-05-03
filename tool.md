@@ -25,6 +25,13 @@
 <!-- Path -->
 <span style="font-style: italic;color: #999;"></span>
 
+<!-- diff -->
+<div style="display: inline-block;width: 3%;padding: 0 5px;">&ensp;</div><div style="display: inline-block;width: 97%;padding-left: 5px;">
+
+<div style="background: #ffdce0;color: #cb2431;display: inline-block;width: 3%;padding: 0 5px;">-</div><div style="background: #ffeef0;display: inline-block;width: 97%;padding-left: 5px;">
+
+<div style="background: #cdffd8;color: #2cbe4e;display: inline-block;width: 3%;padding: 0 5px;">+</div><div style="background: #e6ffed;display: inline-block;width: 97%;padding-left: 5px;">
+
 <!-- video embed -->
 <div style="position: relative;width:100%;height:0;padding-bottom: 56.25%;">  <iframe style="position:absolute;top:0;left:0;width:100%;height:100%" src="https://www.youtube.com/embed/Hh2jyZY9nWc?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
