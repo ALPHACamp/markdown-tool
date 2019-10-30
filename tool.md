@@ -64,3 +64,16 @@
     context
   </div>
 </div>
+
+<!-- 作業 Tag -->
+<!-- TA Review -->
+<span style="display: inline-block;background: #03caff;color: #fff;border-radius: 5px;padding: 0 6px;margin-right: 5px;font-size: 0.8rem;vertical-align: text-bottom;">TA Review</span>
+
+<!-- Peer Review -->
+<span style="display: inline-block;background: #00A2FF;color: #fff;border-radius: 5px;padding: 0 6px;margin-right: 5px;font-size: 0.8rem;vertical-align: text-bottom;">Peer Review</span>
+
+<!-- Model Answer -->
+<span style="display: inline-block;background: #0076BA;color: #fff;border-radius: 5px;padding: 0 6px;margin-right: 5px;font-size: 0.8rem;vertical-align: text-bottom;">Model Answer</span>
+
+<!-- Editor's Choice -->
+<span style="display: inline-block;background: #004D7F;color: #fff;border-radius: 5px;padding: 0 6px;margin-right: 5px;font-size: 0.8rem;vertical-align: text-bottom;">Editor's Choice</span>
