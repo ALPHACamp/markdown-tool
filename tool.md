@@ -1,3 +1,13 @@
+<!-- 學習目標與成果 -->
+
+>**學習目標與成果**
+
+>． 建立 `view` 模組來處理牌桌的畫面顯示
+>． 處理卡片花色與數字的換算邏輯
+>． 分拆函式，一個函式處理一個動作
+>． 運用 `Array.from(Array(52).keys())` 生成連續數字陣列
+
+
 <!-- new terminal block -->
 <pre style="background:#000;color:#fff;font-size:15px;line-height:1.6"><span style="color:#7dee00"></span></pre>
 
