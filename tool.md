@@ -1,3 +1,42 @@
+<!-- 驗收能力 -->
+<div style="background: #ECECEC; padding: 10px; border-radius: 4px; margin-bottom: 20px">
+  <h5 style="padding-left: 10px;">驗收能力</h5>
+  <ul>
+    <li>運用虛擬碼表達流程與邏輯</li>
+  </ul>
+</div>
+
+
+<!-- 作業指標圖示 -->
+<!-- 這段需要從後台找到「Edit unit」按鈕，加入表單 （和作業問題內容在不同的編輯頁） -->
+<!-- 以下是完整的 4 個圖示；實際要打開的標籤請根據 Assignment list -->
+
+<div class="assignment-mastery-outter-wrapper">
+  <div class="assignment-mastery-wrapper">
+    <div class="assignment-mastery-group">
+      <div class="assignment-mastery-icon"><img src="https://assets-lighthouse.alphacamp.co/uploads/image/file/10364/mastery_icon_0207-01.png"></div>
+      <div class="assignment-master-hover-text">綜合應用</div>
+    </div>
+    <div class="assignment-mastery-group">
+      <div class="assignment-mastery-icon"><img src="https://assets-lighthouse.alphacamp.co/uploads/image/file/10365/mastery_icon_0207-02.png"></div>
+      <div class="assignment-master-hover-text">高時間投入</div>
+    </div>
+    <div class="assignment-mastery-group">
+      <div class="assignment-mastery-icon"><img src="https://assets-lighthouse.alphacamp.co/uploads/image/file/10366/mastery_icon_0207-03.png"></div>
+      <div class="assignment-master-hover-text">要查外部資料</div>
+    </div>
+    <div class="assignment-mastery-group">
+      <div class="assignment-mastery-icon mastery-icon-blue"><img src="https://assets-lighthouse.alphacamp.co/uploads/image/file/10367/mastery_icon_0207-04.png"></div>
+      <div class="assignment-master-hover-text">挑戰題</div>
+    </div>
+  </div>
+  <div class="assignment-challenge-text">
+    <h5>挑戰理由</h5>
+      踩地雷是高難度的作業，一定需要運用運算思維來解決問題，建議同學可以多多交流不同的實作角度，並且互相觀摩精選專案，不需要靠自己想通所有的邏輯（因為每個人的邏輯不同，就算參考別人的作業，你仍然需要把別人的概念轉化到自己的專案裡）
+  </div>
+</div>
+
+
 <!-- 學習成果與目標 -->
 
 >**學習成果與目標**
