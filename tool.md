@@ -1,3 +1,30 @@
+<!-- 驗收能力 & 批改標準 -->
+<div style="background: #ECECEC; padding: 10px; border-radius: 4px; margin-bottom: 20px">
+  <h5 style="padding-left: 10px;">驗收能力</h5>
+  <ul>
+      <li>綜合應用物件、函式與 DOM 操作等技巧</li>
+    <li>針對目標功能，拆解程式執行流程、畫面上的 UI 元件與資料，一步步實作出前端使用者體驗</li>
+    <li>當程式碼變得愈來愈多時，能運用函式、物件與良好的命名，整理出容易閱讀、有架構的程式碼</li>
+    <li>深度理解並分析既有的程式架構，在不破壞既有功能的前提下，添加新的網頁功能</li>
+  </ul>
+    <h5 style="padding-left: 10px;">批改標準</h5>
+  <ul>
+    <li><strong>Good</strong>
+    <ul>
+      <li>達成了所有指定功能</li>
+      <li>let & const 的區分、變數命名、程式碼格式等沒有被挑出重大問題</li>
+    </ul>
+</li>
+    <li><strong>Excellent</strong></li>
+        <ul>
+      <li>優良的命名風格與函式架構，讓程式碼非常清晰易讀</li>
+      <li>函式粒度適中，每個函式都有明確的職責，一個函式專心做一件事</li>
+    </ul>
+  </ul>
+</div>
+
+
+
 <!-- 驗收能力 -->
 <div style="background: #ECECEC; padding: 10px; border-radius: 4px; margin-bottom: 20px">
   <h5 style="padding-left: 10px;">驗收能力</h5>
