@@ -81,6 +81,9 @@
 <pre class="prettyprint">
 </pre>
 
+<!--  -->
+<div style="width:100%"> <a href="https://assets-lighthouse.s3.amazonaws.com/uploads/image/file/8100/ExportedContentImage_00.png" target="_blank"><img style="max-width:700px;width:100%;" src="https://assets-lighthouse.s3.amazonaws.com/uploads/image/file/8100/ExportedContentImage_00.png"></a></div>
+
 <!-- Source -->
 <p style="margin-top: 10px"><span style="font-style: italic;color: #999;">{{Source}}</span></p>
 
